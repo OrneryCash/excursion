@@ -1,7 +1,10 @@
 body {
     background-color: black;
-    text-align: center;
     font-family: Verdana;
+}
+
+header, main {
+    text-align: center;
 }
 
 h1 {
@@ -25,4 +28,8 @@ h2 {
 p {
     font-size: 21px;
     color: gray;
+}
+
+footer {
+    text-align: right;
 }
